@@ -1,7 +1,7 @@
 <template>
   <div id="linkverwaltung-app" class="container">
     <header>
-      <h1>Linkverwaltung 1</h1>
+      <h1>Linkverwaltung 3</h1>
     </header>
     <main>
       <!-- Eingabeformular -->
